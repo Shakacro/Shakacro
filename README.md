@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shaka
-- 👀 I’m interesting in knowledge.
-- 🌱 I’m currently learning. soo 🙈
-- 📫 How to reach me. you need pay 5 🍺 
+- Xiaomi HyperOs software development      engineer for Croatia
+- Software developments and technology for SDK Platform
+- Cryptocurrency Validator & Verification engineering 
   
   
 
