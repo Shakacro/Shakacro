@@ -1,3 +1,5 @@
+- MIUI and Xiaomi Europe Unofficially Dev's 
+for Global Betta ROOM testers team's.
 - Xiaomi HyperOs Language development for Croatia 🇭🇷 
 - Xiaomi HyperOs software development engineer for Croatia.
 - Software developments and technology for SDK Platform
