@@ -1,6 +1,7 @@
-- MIUI and Xiaomi Europe Unofficially Developers
-for Global Beta ROM testers team's.
-- Xiaomi HyperOs Language developer for Croatia 🇭🇷 
-- Xiaomi HyperOs software developer engineer for Croatia.
-- Software developer for Android Platforms
+- Android Developer in Unofficial Xiaomi       European Community.
+
+- Xiaomi HyperOs Stable & Beta Global Tester.
+
+- Translator and localization manager for Croatian, Bosnian and Serbian language's projects on the Crowdin platform.
+
 - Cryptocurrency Validator & Verification engineering
