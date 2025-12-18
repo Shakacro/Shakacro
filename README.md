@@ -30,8 +30,6 @@
   - <u>DevOps:</u> CI/CD, Docker, Kubernetes, cloud
 
 - <u>Open Source Projects & Achievements:</u>
-  - <u>Own and maintain billions of abandoned (inactive) chains</u> for the open community.
-  - <u>Sending inactive chains as I leave for humanitarian purposes.</u>
   - Developed, audited, and contributed to smart contracts and protocols across multiple platforms.
   - Published open-source tools and libraries adopted by blockchain developers.
   - Senior validator across major networks, supporting reliability and security.
