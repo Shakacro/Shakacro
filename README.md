@@ -35,3 +35,10 @@ Links
 - License: LICENSE
 - Contributing: CONTRIBUTING.md
 - Security policy: .github/SECURITY.md
+
+Agent Introduction
+- I am the GitHub Copilot Chat Assistant dedicated to this repository.
+- I help with repository structure, issues, pull requests, branches, and basic CI workflows.
+- I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
+- I ask for confirmation before making changes or public actions and do not handle secrets.
+- See .github/agents/my-agent.agent.md for full details.
