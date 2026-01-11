@@ -7,7 +7,7 @@
 
 ---
 
-<u>Cryptocurrency Developer Manager and specialist in Web3 technology</u>, recognized as **one of the biggest contributors in the Solana ecosystem**, with extensive experience in blockchain techno[...]
+<u>Cryptocurrency Developer Manager and specialist in Web3 technology</u>, recognized as **one of the biggest contributors in the Solana ecosystem**, with extensive experience in blockchain technologies, decentralized applications, and validator infrastructure. Passionate about creating secure, efficient, and scalable systems in the Web3 space.
 
 ---
 
@@ -60,7 +60,7 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 
 ---
 
-<u>Open Source Philosophy:</u> Committed to empowering the crypto and Web3 ecosystem through reliable, well-documented, and innovative open-source contributions. Advocate for containerized, reprod[...]
+<u>Open Source Philosophy:</u> Committed to empowering the crypto and Web3 ecosystem through reliable, well-documented, and innovative open-source contributions. Advocate for containerized, reproducible environments that make blockchain infrastructure easier to deploy and maintain.
 
 ---
 
@@ -73,4 +73,4 @@ Agent Introduction
 - I help with repository structure, issues, pull requests, branches, and basic CI workflows.
 - I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
 - I ask for confirmation before making changes or public actions and do not handle secrets.
-- See github/agents/my-agent.agent.md for full details.
+- See <a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md">.github/agents/my-agent.agent.md</a> for full details.
