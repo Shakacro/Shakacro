@@ -1,0 +1,8 @@
+# CODEOWNERS
+
+* @Shakacro
+.github/** @Shakacro
+
+Notes:
+- Default ownership is assigned to @Shakacro.
+- CODEOWNERS will be requested for review automatically on matching paths.
