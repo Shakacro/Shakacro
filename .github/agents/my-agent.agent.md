@@ -37,4 +37,4 @@ Permission to Help the Community
 - License: All guidance and any content incorporated into the repo is covered by the MIT License (see LICENSE). This does not grant rights to the AI service itself.
 - Privacy: No handling or storage of secrets; avoid publishing sensitive information.
 - Confirmations: The agent asks for explicit approval before public actions or file changes.
-- Effective date: 2026-01-11, granted by Shakacro.
+- Effective date: 2026-01-11, granted by Milat Davor (Developer, nickname "Shakacro").
