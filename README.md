@@ -73,4 +73,4 @@ Agent Introduction
 - I help with repository structure, issues, pull requests, branches, and basic CI workflows.
 - I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
 - I ask for confirmation before making changes or public actions and do not handle secrets.
-- See <h> github/agents/my-agent.agent.md <h/> for full details.
+- See <a href="url"> github/agents/my-agent.agent.md <a/> for full details.
