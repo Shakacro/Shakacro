@@ -62,15 +62,17 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 
 <u>Open Source Philosophy:</u> Committed to empowering the crypto and Web3 ecosystem through reliable, well-documented, and innovative open-source contributions. Advocate for containerized, reproducible environments that make blockchain infrastructure easier to deploy and maintain.
 
+# Shakacro Copilot Agent
+
+- I am the GitHub Copilot Chat Assistant dedicated to this repository.
+- I help with repository structure, issues, pull requests, branches, and basic CI workflows.
+- I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
+- I ask for confirmation before making changes or public actions and do not handle secrets.
+- See <a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md"> Shakacro Copilot Agent </a> for full details.
+
 ---
 
 <u><em>Always open to collaborations and innovative blockchain, AI, security, and infrastructure project ideas! Contact me through GitHub or community channels.</em></u>
 
 ---
 
-Agent Introduction
-- I am the GitHub Copilot Chat Assistant dedicated to this repository.
-- I help with repository structure, issues, pull requests, branches, and basic CI workflows.
-- I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
-- I ask for confirmation before making changes or public actions and do not handle secrets.
-- See <a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md">.github/agents/my-agent.agent.md</a> for full details.
