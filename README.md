@@ -64,15 +64,5 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 
 # Shakacro Copilot Agent
 
-- I am the GitHub Copilot Chat Assistant dedicated to this repository.
-- I help with repository structure, issues, pull requests, branches, and basic CI workflows.
-- I draft documentation such as README, CONTRIBUTING, and SECURITY on request.
-- I ask for confirmation before making changes or public actions and do not handle secrets.
-- See <a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md"> Shakacro Copilot Agent </a> for full details.
-
----
-
-<u><em>Always open to collaborations and innovative blockchain, AI, security, and infrastructure project ideas! Contact me through GitHub or community channels.</em></u>
-
----
+<a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md">                 hakacro Copilot Agent </a> for full details. <u><em>channels.</em></u>
 
