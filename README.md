@@ -28,13 +28,6 @@
   - <u>Oracles & Integration:</u> Chainlink, Band, **Pyth Network (Solana)**, API design/integration
   - <u>Languages:</u> JavaScript/TypeScript, Python, Go, **Rust**, Haskell, C++
   - <u>DevOps & Infrastructure:</u> 
-    - **Docker (Expert)** - Containerization for blockchain nodes, validators, and DApps
-    - **Kubernetes** - Orchestration of distributed blockchain infrastructure
-    - **CI/CD** - Automated testing and deployment pipelines for smart contracts
-    - **Cloud Platforms** - AWS, GCP, Azure for scalable blockchain solutions
-    - **Container Optimization** - High-performance Docker configurations for Solana validators and Ethereum nodes
-    - **Docker Compose** - Multi-container blockchain development environments
-
 - <u>Open Source Projects & Achievements:</u>
   - **Major contributor to the Solana ecosystem** with recognized impact on core tooling and infrastructure
   - Developed, audited, and contributed to smart contracts and protocols across multiple platforms
@@ -59,6 +52,25 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 - **Dockerized Solutions:** Created optimized Docker configurations for Solana RPC nodes, validators, and development environments
 
 ---
+
+Copilot finished thinking
+
+Copilot said: Može — u `README.md` “povećaš slova” tako
+Može — u README.md “povećaš slova” tako da tekst pretvoriš u heading (naslov). Markdown nema “font-size” komandu, ali naslovi (#, ##, ###) su veći.
+
+Najsigurnije: ostavi glavni naslov kako je, i odmah ispod stavi veći “Documentation” blok.
+
+Primjer (ubaci odmah ispod prve # ... linije):
+
+README.md-snippet.md
+v3
+## Documentation
+### Industrial block-system
+➡️ [Open the doc](docs/industrial-block-system.md)
+
+README.md-snippet-big.md
+# Documentation
+[Industrial block-system](docs/industrial-block-system.md)
 
 <u>Open Source Philosophy:</u> Committed to empowering the crypto and Web3 ecosystem through reliable, well-documented, and innovative open-source contributions. Advocate for containerized, reproducible environments that make blockchain infrastructure easier to deploy and maintain.
 
