@@ -52,9 +52,6 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 - **Dockerized Solutions:** Created optimized Docker configurations for Solana RPC nodes, validators, and development environments
 
 ---
-
-README.md-snippet.md
-v3
 ## Documentation
 ### Industrial block-system
 ➡️ [Open the doc](docs/industrial-block-system.md)
