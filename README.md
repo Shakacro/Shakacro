@@ -56,7 +56,6 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 ### Industrial block-system
 ➡️ [Open the doc](docs/industrial-block-system.md)
 
-README.md-snippet-big.md
 # Documentation
 [Industrial block-system](docs/industrial-block-system.md)
 
