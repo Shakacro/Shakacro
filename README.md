@@ -53,15 +53,6 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 
 ---
 
-Copilot finished thinking
-
-Copilot said: Može — u `README.md` “povećaš slova” tako
-Može — u README.md “povećaš slova” tako da tekst pretvoriš u heading (naslov). Markdown nema “font-size” komandu, ali naslovi (#, ##, ###) su veći.
-
-Najsigurnije: ostavi glavni naslov kako je, i odmah ispod stavi veći “Documentation” blok.
-
-Primjer (ubaci odmah ispod prve # ... linije):
-
 README.md-snippet.md
 v3
 ## Documentation
