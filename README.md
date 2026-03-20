@@ -59,9 +59,7 @@ As **one of the biggest contributors in the Solana ecosystem**, my work spans:
 # Documentation
 [Industrial block-system](docs/industrial-block-system.md)
 
-<u>Open Source Philosophy:</u> Committed to empowering the crypto and Web3 ecosystem through reliable, well-documented, and innovative open-source contributions. Advocate for containerized, reproducible environments that make blockchain infrastructure easier to deploy and maintain.
-
 # Shakacro Copilot Agent
 
-<a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md">                 hakacro Copilot Agent </a> for full details. <u><em>channels.</em></u>
+<a href="https://github.com/Shakacro/Shakacro/blob/main/.github%2Fagents%2Fmy-agent.agent.md">                 Shakacro Copilot Agent </a> for full details. <u><em>channels.</em></u>
 
